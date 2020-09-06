@@ -47,14 +47,13 @@
 }
 
 .app {
-    background-image: linear-gradient(to left,rgb(35, 80, 228),rgb(55, 119, 238));
+    background-image: linear-gradient(to left,rgb(230, 154, 96),rgb(12, 114, 43));
 }
 
 main {
-    background-image: url(./1547356_p0.jpg);
+    background-image: url(./74915908_p0.png);
 }
 
 a {
-    /* position: ; */
     position: absolute;
 }
