@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    letter-spacing: .1em;
+}
+
+.app {
+    height: 100%;
+    background-image: linear-gradient(to right,#ff80b2,#ffc34d);
+}
+
+main {
+    height: 700px;
+    width: 900px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    position: relative;
+    top: 50%;
+    left: 50%;;
+    transform: translate(-50%,-50%);
+}
+
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}

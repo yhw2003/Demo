@@ -1,0 +1,10 @@
+@keyframes bigger {
+    50%{
+       height:  1000px;
+       width: 900px;
+    }
+    100%{
+        height: 1000px;
+        width: 1800px;
+    }
+}
