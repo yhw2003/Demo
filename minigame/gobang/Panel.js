@@ -22,6 +22,6 @@ function Panel(){
             this.dplayer="white";
         }else if (this.dplayer==="white"){
             this.dplayer="black";
-        }else alert("Unknown error")
+        }else alert("Unknown error");
     }
 }
